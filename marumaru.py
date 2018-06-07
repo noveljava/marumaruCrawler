@@ -68,5 +68,8 @@ def getTitleLinkLit() :
 
 		getImgFunction( title['href'] , title.text )
 
+	print 'test'
+	print 'test2'
+	
 if __name__ == "__main__" :
 	getTitleLinkLit()
